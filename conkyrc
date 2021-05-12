@@ -1,0 +1,53 @@
+conky.config = {
+	use_xft = true,
+	font = 'caviar,123:size=14',
+	xftalpha = 0.9,
+	update_interval = 1,
+	total_run_times = 0,
+
+	cpu_avg_samples=2,
+	net_avg_samples=2,
+
+	own_window = true,
+	own_window_class = 'Conky',
+	own_window_transparent = true,
+	own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
+	own_window_colour = '#000000',
+	own_window_argb_visual = true,
+	own_window_argb_value = 0,
+
+	border_inner_margin=0,
+	border_outer_margin=0,
+
+	double_buffer = true,
+	draw_shades = false,
+	draw_outline = false,
+	draw_borders = false,
+	draw_graph_borders = false,
+	alignment = 'top_right',
+	gap_y = 400,
+	gap_x = 450,
+	no_buffers = false,
+	uppercase = false,
+	override_utf8_locale = true,
+	use_spacer = 'no',
+
+    maximum_width=1000,
+	minimum_width = 0, minimum_height = 0,
+
+	lua_load='~/.conky/conky_dashboard.lua',
+	lua_draw_hook_pre='conky_clock_rings'
+};
+
+conky.text = [[
+${offset 200}${voffset 90}${color EAEAEA}${font GE Inspira:pixelsize=120}${time %I:%M}${font}${voffset -84}${offset 10}${color 1793D1}${font GE Inspira:pixelsize=42}${time %d} ${voffset -6}${color EAEAEA}${font GE Inspira:pixelsize=22}${time  %B} ${time %Y}${font}${voffset 24}${font GE Inspira:pixelsize=58}${offset -171}${time %A}${font}
+
+
+
+
+
+
+
+
+
+]];
