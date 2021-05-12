@@ -14,4 +14,4 @@ If you want to know about rest of the theming, here's a list -
 - [Orchis Dark Compact Shell](https://www.gnome-look.org/p/1357889/)
 - [Sweet Theme](https://www.gnome-look.org/p/1253385/)
 - [Candy Icons](https://www.gnome-look.org/p/1305251/)
-- [Manjaro Gnome](https://manjaro.org/get-manjaro/#gnome)
+- [Manjaro| Gnome](https://manjaro.org/get-manjaro/#gnome)
