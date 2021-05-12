@@ -11,6 +11,6 @@ conky -c ~/.conky/conkyrc
 # Others
 If you want to know about rest of the theming, here's a list - 
 - [Wallpaper](https://gist.github.com/dkodar20/f8ce656476b4ae0f39ae33676fb61a25)
-- [Shell](https://www.gnome-look.org/p/1357889/) - Orchis Dark Compact
-- [Theme](https://www.gnome-look.org/p/1253385/) - Sweet Theme
-- [Icons](https://www.gnome-look.org/p/1305251/) - Candy Icons
+- [Orchis Dark Compact Shell](https://www.gnome-look.org/p/1357889/)
+- [Sweet Theme](https://www.gnome-look.org/p/1253385/)
+- [Candy Icons](https://www.gnome-look.org/p/1305251/)
