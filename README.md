@@ -3,7 +3,7 @@ A basic conky setup I use on my system.
 ![image](desktop.png)
 
 # Install
-Installation is straighforward. Install the [conky-cairo](https://github.com/brndnmtthws/conky) package. The make a `.conky` folder in your home directory and place the `conkyrc` and `conky-dashboard.lua` files in it. Then run
+Installation is straighforward. Install the [conky-cairo](https://github.com/brndnmtthws/conky) package. Make a `.conky` folder in your home directory and place the `conkyrc` and `conky-dashboard.lua` files in it. Run
 ```
 conky -c ~/.conky/conkyrc 
 ```
