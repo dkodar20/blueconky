@@ -40,7 +40,7 @@ conky.config = {
 };
 
 conky.text = [[
-${offset 200}${voffset 90}${color EAEAEA}${font GE Inspira:pixelsize=120}${time %I:%M}${font}${voffset -84}${offset 10}${color 1793D1}${font GE Inspira:pixelsize=42}${time %d} ${voffset -6}${color EAEAEA}${font GE Inspira:pixelsize=22}${time  %B} ${time %Y}${font}${voffset 24}${font GE Inspira:pixelsize=58}${offset -171}${time %A}${font}
+${offset 200}${voffset 90}${color EAEAEA}${font GE Inspira:pixelsize=120}${time %I:%M}${font}${voffset -84}${offset 10}${color 1793D1}${font GE Inspira:pixelsize=42}${time %d} ${voffset -6}${color EAEAEA}${font GE Inspira:pixelsize=22}${time  %B} ${time %Y}${font}${voffset 24}${font GE Inspira:pixelsize=58}${offset -202}${time %A}${font}
 
 
 
